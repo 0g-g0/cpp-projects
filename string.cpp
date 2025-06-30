@@ -10,3 +10,4 @@ int main()
 }
 
 //We use spring in the words.
+//We use cin when we want the user to enter the required information.
