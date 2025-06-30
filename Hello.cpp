@@ -6,3 +6,4 @@ int main()
 }
 
 //First programming code "Hallo world"
+// \n We use it when we want a new line.
